@@ -51,6 +51,7 @@ LLM generates final answer
 The LLM now answers based ONLY on retrieved data.
 
 ⭐ 4. RAG Pipeline Diagram (Text Format)
+```
                 ┌───────────────┐
                 │   Documents    │
                 └───────┬───────┘
@@ -76,7 +77,7 @@ The LLM now answers based ONLY on retrieved data.
                 ┌───────▼───────┐
                 │   Answer       │
                 └───────────────┘
-
+```
 
 Use this to explain the flow clearly.
 
